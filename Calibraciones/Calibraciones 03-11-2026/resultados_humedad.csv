@@ -1,0 +1,13 @@
+﻿Domo,Sensor,Nivel nominal [%],R²,MAE [%],RMSE [%],N
+Domo 1,SHT_Hum,Todos,0.151,11.456,11.948,490
+Domo 1,SHT_Hum,33.0,,12.147,12.436,444
+Domo 1,SHT_Hum,75.0,,4.785,5.304,46
+Domo 1,DHT_Hum,Todos,0.908,3.752,3.936,490
+Domo 1,DHT_Hum,33.0,,3.634,3.79,444
+Domo 1,DHT_Hum,75.0,,4.889,5.143,46
+Domo 3,SHT_Hum,Todos,0.907,3.865,3.965,490
+Domo 3,SHT_Hum,33.0,,3.905,3.978,444
+Domo 3,SHT_Hum,75.0,,3.485,3.834,46
+Domo 3,DHT_Hum,Todos,0.973,1.839,2.116,490
+Domo 3,DHT_Hum,33.0,,1.586,1.726,444
+Domo 3,DHT_Hum,75.0,,4.278,4.351,46

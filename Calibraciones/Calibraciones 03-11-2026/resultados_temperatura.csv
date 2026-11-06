@@ -1,0 +1,17 @@
+﻿Domo,Sensor,Nivel,R²,MAE [°C],RMSE [°C],N
+Domo 1,SHT_Temp,Todos,0.991,0.717,0.813,694
+Domo 1,SHT_Temp,0,,1.352,1.356,132
+Domo 1,SHT_Temp,15,,0.516,0.587,280
+Domo 1,SHT_Temp,30,,0.619,0.651,282
+Domo 1,DHT_Temp,Todos,0.988,0.732,0.909,694
+Domo 1,DHT_Temp,0,,1.6,1.605,132
+Domo 1,DHT_Temp,15,,0.698,0.799,280
+Domo 1,DHT_Temp,30,,0.361,0.437,282
+Domo 3,SHT_Temp,Todos,0.994,0.593,0.667,694
+Domo 3,SHT_Temp,0,,1.061,1.065,132
+Domo 3,SHT_Temp,15,,0.343,0.392,280
+Domo 3,SHT_Temp,30,,0.622,0.643,282
+Domo 3,DHT_Temp,Todos,0.993,0.541,0.682,694
+Domo 3,DHT_Temp,0,,0.413,0.431,132
+Domo 3,DHT_Temp,15,,0.976,1.01,280
+Domo 3,DHT_Temp,30,,0.169,0.21,282
