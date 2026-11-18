@@ -1,0 +1,7 @@
+Esta carpeta está destinada a los archivos CSV generados por la aplicación
+JOANLAB_Balanza.exe.
+
+La aplicación crea nombres como:
+
+Muestras_JOANLAB_AAAAMMDD_HHMMSS.csv
+
